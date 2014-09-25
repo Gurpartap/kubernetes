@@ -17,7 +17,7 @@ Kubernetes is a community driven cluster manager that goes wherever your Linux a
 
 #### It can run anywhere!
 
-Even though the initial development was done on Google Compute Engine (which is why so our instructions and scripts are built around that), Kubernetes can run on any cluster infrastructure. If you make it work on infrastructure that is not documented, please let us know and contribute instructions/code.
+Even though the initial development was done on Google Compute Engine (which is why so our instructions and scripts are built around that), Kubernetes can run on any cluster infrastructure, including GCE, Rackspace, Microsoft Azure, OpenStack and several others, and on any Linux based distribution like Fedora, CoreOS, Ubuntu, etc. If you make it work on infrastructure that is not documented, please let us know and contribute instructions/code.
 
 #### ... and it is in pre-production beta!
 
@@ -40,7 +40,6 @@ The following getting started tutorials are also available:
 * [`kubecfg` command line tool](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/cli.md)
 * [Kubernetes API Documentation](http://cdn.rawgit.com/GoogleCloudPlatform/kubernetes/31a0daae3627c91bc96e1f02a6344cd76e294791/api/kubernetes.html)
 * [Kubernetes Client Libraries](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/client-libraries.md)
-
 * [Cluster monitoring with Heapster and cAdvisor](https://github.com/GoogleCloudPlatform/heapster)
 
 ##### A list of all the tutorials and community projects can be found here:
@@ -75,3 +74,4 @@ See [here]() for a list of Frequently Asked Questions
 * [Cluster Security](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/DESIGN.md#cluster-security)
 * [Testing out flaky tests](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/flaky-tests.md)
 
+## This readme is a work in progress!
