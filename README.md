@@ -45,6 +45,12 @@ The following getting started tutorials are also available:
 ##### A list of all the tutorials and community projects can be found here:
 * [Kubernetes tutorials and community projects]()
 
+## Releases
+
+Kubernetes releases are available for download via the following link:
+
+* [http://kubernetes.io/releases](http://kubernetes.io/releases)
+
 ## Community, discussion and support
 
 If you have questions or want to start contributing please reach out. We don't bite!
@@ -52,12 +58,6 @@ If you have questions or want to start contributing please reach out. We don't b
 The Kubernetes team is hanging out on IRC on the [#google-containers room on freenode.net](http://webchat.freenode.net/?channels=google-containers).  We also have the [google-containers Google Groups mailing list](https://groups.google.com/forum/#!forum/google-containers).
 
 If you are a company and are looking for a more formal engagement with Google around Kubernetes and containers at Google as a whole, please fill out [this form](https://docs.google.com/a/google.com/forms/d/1_RfwC8LZU4CKe4vKq32x5xpEJI5QZ-j0ShGmZVv9cm4/viewform). and we'll be in touch.
-
-## Releases
-
-Kubernetes releases are available for download via the following link:
-
-* [http://kubernetes.io/releases](http://kubernetes.io/releases)
 
 ## Kubernetes in depth
 
